@@ -2,7 +2,7 @@
 
 In this assinment, potential treatments for skin cancer is analysed using data obtained from mice on different treatment options. Tables and graphs using  pandas and matplotlib are created to summarise the study results.
 
-Technologies Used:
+## Technologies Used:
 * Python
 * Matplotlib
 * Pandas
